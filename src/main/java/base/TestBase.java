@@ -164,6 +164,8 @@ public class TestBase {
 
     	String browser3 = properties.getProperty("browserID");
     	String browser4 = properties.getProperty("browserID");
+    	String browserX = properties.getProperty("browserID");
+
         return browser;
     }
 
