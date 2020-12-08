@@ -159,6 +159,9 @@ public class TestBase {
 //            return Constants.CHROME;
 //        }
     	String browser = properties.getProperty("browserID");
+    	String browser0 = properties.getProperty("browserID");
+    	String browser1 = properties.getProperty("browserID");
+
 
     	String browser3 = properties.getProperty("browserID");
     	String browser4 = properties.getProperty("browserID");
